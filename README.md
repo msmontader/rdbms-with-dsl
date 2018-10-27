@@ -1,6 +1,6 @@
 ### What is this repository? ###
  
- * Simple Database System with a DSL (this was a class project for CS61B at UC Berkeley).
+ * Simple Database System with a DSL (this was a class project for CS61B at UC Berkeley. Spring 2017).
  
  * A small version of what is called a relational database management system (DBMS).
  	This project has a DSL (Domain Specific Language), where a user can interact with the system.
