@@ -10,7 +10,7 @@
 * Version 1.0
  
  ### How do I get set up? ###
-After you download the source code, run the file `Main` and you will be able to interact with the system using the commandline console.
+After you download the source code, run the file `Main` and you will be able to interact with the system using the commandline console following the below commands.
  
  ### Commands: ###
 `create table <table name> (<column0 name> <type0>, <column1 name> <type1>, ...)`
