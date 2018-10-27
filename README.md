@@ -18,8 +18,9 @@ After you download the source code, run the file `Main` and you will be able to 
 	This syntax defines the column order for this table.
 	EX: `create table students (name string, gpa float)`
  
-* `Create table <table name> as <select clause>`
- 
+* Create with select statement
+
+	`Create table <table name> as <select clause>`
 	Create a table with the given name. The columns, content, and types of columns of the table are those of the 		intermediate table created by the result of executing the select clause.
 	It is an error to create a table with no columns, and it is also an error to generate a table that already exists.
  
